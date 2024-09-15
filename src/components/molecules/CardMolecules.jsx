@@ -24,7 +24,7 @@ const CardMolecules = () => {
                     <div className="poin"><img src="./poin.png" alt="img" /><p>Deployment</p></div>
                 </div>
                 <div className="content">
-                    <h2>3D Design</h2>
+                    <h2>3D <br />Design</h2>
                     <p>We create stunning 3D visualizations <br />for your products and environments.</p>
                     <hr /><br />
                     <div className="poin"><img src="./poin.png" alt="img" /><p>3D Modeling</p></div>
@@ -33,7 +33,7 @@ const CardMolecules = () => {
                     <div className="poin"><img src="./poin.png" alt="img" /><p>Visual Architecture</p></div>
                 </div>
                 <div className="content">
-                    <h2>Video Editing</h2>
+                    <h2>Video <br />Editing</h2>
                     <p>We transform raw videos into <br />stunning works of art.</p>
                     <hr /><br />
                     <div className="poin"><img src="./poin.png" alt="img" /><p>Video Editing</p></div>
@@ -42,7 +42,7 @@ const CardMolecules = () => {
                     <div className="poin"><img src="./poin.png" alt="img" /><p>Motion Graphic</p></div>
                 </div>
                 <div className="content">
-                    <h2>Graphic Design</h2>
+                    <h2>Graphic <br />Design</h2>
                     <p>We just create Design</p>
                     <hr /><br />
                     <div className="poin"><img src="./poin.png" alt="img" /><p>Logo Design</p></div>
